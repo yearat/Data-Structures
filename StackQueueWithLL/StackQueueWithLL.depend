@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1553520523 source:e:\225\stackqueuewithll\list.cpp
+	"list.h"
+	<iostream>
+
+1553520523 e:\225\stackqueuewithll\list.h
+	<iostream>
+
+1553520523 source:e:\225\stackqueuewithll\queue.cpp
+	"queue.h"
+
+1553520523 e:\225\stackqueuewithll\queue.h
+	"list.h"
+
+1553520523 source:e:\225\stackqueuewithll\stack.cpp
+	"stack.h"
+
+1553520523 e:\225\stackqueuewithll\stack.h
+	"list.h"
+
+1553521718 source:e:\225\stackqueuewithll\main.cpp
+	<bits/stdc++.h>
+	"list.h"
+	"list.cpp"
+	"stack.h"
+	"stack.cpp"
+	"queue.h"
+	"queue.cpp"
+
+1553520523 e:\225\stackqueuewithll\list.cpp
+	"list.h"
+	<iostream>
+
+1553520523 e:\225\stackqueuewithll\stack.cpp
+	"stack.h"
+
+1553520523 e:\225\stackqueuewithll\queue.cpp
+	"queue.h"
+
